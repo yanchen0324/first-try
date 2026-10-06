@@ -1,2 +1,3 @@
 # first-try
-abababab
+This is my first repository.    
+Hello!
