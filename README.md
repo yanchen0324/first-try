@@ -1,3 +1,3 @@
-# first-try
+# first-repository
 This is my first repository.    
 Hello!
